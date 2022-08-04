@@ -1,0 +1,1 @@
+# luna-openbox-theme
